@@ -1,0 +1,9 @@
+E:\CĐN\matranke\LTDT\bin\Debug\LTDT.exe.config
+E:\CĐN\matranke\LTDT\bin\Debug\LTDT.exe
+E:\CĐN\matranke\LTDT\bin\Debug\LTDT.pdb
+E:\CĐN\matranke\LTDT\obj\Debug\LTDT.Properties.Resources.resources
+E:\CĐN\matranke\LTDT\obj\Debug\LTDT.csproj.GenerateResource.cache
+E:\CĐN\matranke\LTDT\obj\Debug\LTDT.csproj.CoreCompileInputs.cache
+E:\CĐN\matranke\LTDT\obj\Debug\LTDT.exe
+E:\CĐN\matranke\LTDT\obj\Debug\LTDT.pdb
+E:\CĐN\matranke\LTDT\obj\Debug\LTDT.csproj.AssemblyReference.cache

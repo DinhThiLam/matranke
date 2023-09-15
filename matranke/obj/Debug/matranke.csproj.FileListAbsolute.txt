@@ -1,0 +1,10 @@
+E:\CĐN\matranke\matranke\obj\Debug\matranke.csproj.AssemblyReference.cache
+E:\CĐN\matranke\matranke\obj\Debug\matranke.Form1.resources
+E:\CĐN\matranke\matranke\obj\Debug\matranke.Properties.Resources.resources
+E:\CĐN\matranke\matranke\obj\Debug\matranke.csproj.GenerateResource.cache
+E:\CĐN\matranke\matranke\obj\Debug\matranke.csproj.CoreCompileInputs.cache
+E:\CĐN\matranke\matranke\bin\Debug\matranke.exe.config
+E:\CĐN\matranke\matranke\bin\Debug\matranke.exe
+E:\CĐN\matranke\matranke\bin\Debug\matranke.pdb
+E:\CĐN\matranke\matranke\obj\Debug\matranke.exe
+E:\CĐN\matranke\matranke\obj\Debug\matranke.pdb
